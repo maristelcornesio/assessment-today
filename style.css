@@ -1,0 +1,97 @@
+body {
+    font-family:SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.tap {
+    position: absolute;
+    right: 10px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    top: 40px;
+    background: transparent;
+    border: transparent;
+}
+.navig {
+    background-color: gainsboro;
+}
+.cart {
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    right: 18px;
+    top: -40px;
+    background: transparent;
+}
+.img1{
+   height: 350px;
+   position: absolute;
+   left: 600px;
+   bottom: 1px;
+   top: 210px;
+}
+.side{
+    font-size:  50px;
+    font-weight: bolder;
+}
+.back{
+    padding: 7% 5%;
+}
+.center {
+    text-align: center;
+    font-size: xx-large;
+}
+.Middle{
+    line-height: 2;
+}
+.first {
+    background-color: #74bdf8 ;
+    padding: 5%;
+}
+#front {
+    background-color: #74bdf8 ;
+}
+.background{
+    padding: 3% 15% ;
+}
+div {
+    padding: 10px;
+}
+.phone {
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.phone1 {
+    float: right;
+    margin-left: 30px ;
+    height: 150px;
+}
+.col {
+    margin: 100px auto 100px auto; 
+    text-align: left;
+    line-height: 2;
+   width: 50%;
+}
+.btn {
+    top: o;
+    left: 0;
+    position: absolute;
+    left: 400px;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    background: transparent; 
+}
+.title {
+    font-size: x-large;
+
+}
+.container {
+    width: 70%;
+    background-color: #ffff;
+    border-radius: 20px;
+    box-shadow: 0px 25px 40px #1687d933;
+    position: relative;
+    left: 173px;
+}
